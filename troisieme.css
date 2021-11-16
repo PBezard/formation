@@ -1,11 +1,11 @@
-header a 
+nav a 
 {
-  color: blue;
+  color: red;
 }
 
-.navigation
+.green
 {
-  color: pink;
+  color: green;
 }
 
 #lorem
