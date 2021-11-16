@@ -8,9 +8,9 @@ nav a
   color: green;
 }
 
-#lorem
+li
 {
-  color: green;
+  text-decoration: none;
 }
 
 footer
