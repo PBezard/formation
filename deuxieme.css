@@ -1,4 +1,9 @@
 header a 
 {
-  color: bue;
+  color: blue;
+}
+
+.navigation
+{
+  color: pink;
 }
