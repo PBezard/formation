@@ -76,6 +76,10 @@ article
 {border-top: 1px solid black;
 }
 
+article:first-child
+{border-top: 0px;
+}
+
 .titre
 {
   font-family: Arial, sans-serif;
