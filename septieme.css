@@ -69,3 +69,8 @@ header ul
 {
    padding-left: 30px;
 }
+
+.ligne
+{
+   border: solid;
+}
