@@ -29,6 +29,9 @@ ul a
 section article img
 {
   margin-top: 20px;
+  width: 30%;
+  position: relative; 
+  float:right;
 }
 
 header
@@ -80,3 +83,4 @@ header ul
   font-family: Arial;
   padding: 30px;
 }
+
