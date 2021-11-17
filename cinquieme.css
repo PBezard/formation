@@ -8,6 +8,11 @@ nav a
   color: green;
 }
 
+.white
+{
+  color: white;
+}
+
 ul a
 {
   text-decoration: none;
