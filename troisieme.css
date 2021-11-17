@@ -18,6 +18,10 @@ ul a
   margin-bottom: 20px;
 }
 
+article img  {
+    margin: 20px 0px 0px 0px;
+    }
+
 footer
 {
   font-size: 12px;
