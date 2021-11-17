@@ -1,0 +1,77 @@
+/*
+fichier css de base
+par Olivier Chambon
+dernière mise à jour 16/11/2021
+*/
+
+/* généraux */
+html {
+  margin:0px;
+  padding:0px;
+}
+
+a {
+  text-decoration: none;
+}
+
+header, footer {
+  background-color: black;
+  padding:20px;
+}
+
+header a, footer a, footer p {
+  color: white !important;
+}
+
+section {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* mutualisation */
+.vert {
+  color: green;
+}
+
+h2 {
+  font-family: sans-serif;
+  margin-bottom: 20px;
+}
+
+article {
+  border-top: 1px solid black;
+  margin-bottom:20px;
+}
+
+article:first-child {
+  border: 1px solid white !important;
+}
+
+article p {
+  align-content : left;
+}
+
+/* spécifiques */
+nav a {
+  color: red;
+}
+
+section article img {
+  margin-top:20px;
+}
+
+footer p {
+  font-size:12px;
+}
+
+.image
+{
+  width: 30%;
+  float: right;
+  margin: 20px;
+}
+
+article p {
+  text-align: justify;
+}
