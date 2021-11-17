@@ -31,8 +31,7 @@ section article img
   margin-top: 20px;
   width: 30%;
   position: relative; 
-  float:right;
-}
+  }
 
 header
 {
@@ -81,6 +80,6 @@ header ul
 .titre
 {
   font-family: Arial;
-  padding: 30px;
+  padding-top: 30px;
 }
 
