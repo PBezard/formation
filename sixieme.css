@@ -7,8 +7,9 @@ nav ul
 {
   background: grey;
   width: 500px;
-  position: relative;
-  left: 0px;
+  position: absolute;
+  Top: 0px; 
+  left: 10px
 }
 
 .green
