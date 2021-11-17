@@ -8,7 +8,7 @@ nav ul
   background: grey;
   width: 500px;
   position: fixed; 
-  float:right;
+  right: 0px;
 }
 
 .green
