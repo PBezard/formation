@@ -1,6 +1,10 @@
 nav a 
 {
   color: red;
+  }
+
+nav ul 
+{
   background: grey;
   width: 500px;
   position: relative;
