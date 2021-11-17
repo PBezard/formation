@@ -13,9 +13,9 @@ ul a
   text-decoration: none;
 }
 
-article img
+section article img
 {
-  margin: 20px 0px 0px 0px;
+  margin-top: 20px;
 }
 
 footer
