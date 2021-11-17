@@ -72,14 +72,14 @@ header ul
    padding-left: 30px;
 }
 
-.ligne
-{
-   border: solid;
+article
+{border-top: 1px solid noir;
 }
 
 .titre
 {
-  font-family: Arial;
-  padding-top: 30px;
+  font-family: Arial, sans-serif;
+  marging-bottom: 20px;
+  /*padding-top: 30px;*/
 }
 
